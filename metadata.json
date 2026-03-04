@@ -1,0 +1,5 @@
+{
+  "name": "Bahdinan AI",
+  "description": "An AI assistant named Bahdinan that can learn, search the web, and save conversation history with export capabilities.",
+  "requestFramePermissions": []
+}
